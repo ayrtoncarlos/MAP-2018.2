@@ -6,4 +6,5 @@ Exercicio 1 - Revisão.<br>
 Exercício 2 - Composição em Java.<br>
 Exercício 3 - Singleton em Java.<br>
 Exercício 4 - Factory Method em Java.<br>
-Exercício 5 - Abstract Factory em Java.
+Exercício 5 - Abstract Factory em Java.<br>
+Exercício 6 - Builder em Java.
